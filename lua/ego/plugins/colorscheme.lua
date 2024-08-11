@@ -1,0 +1,28 @@
+
+-- theme 1
+-- return {
+-- 	"kvrohit/rasmus.nvim",
+-- 	priority = 1000,
+-- 	config = function()
+-- 		vim.cmd([[colorscheme rasmus]])
+-- 	end,
+-- }
+--
+-- theme 2
+--
+-- return {
+-- 	"andreiamatuni/slightlyclownish.nvim",
+-- 	priority = 1000,
+-- 	transparent = true, -- Enable this to disable the bg color
+-- 	styles = {
+-- 		-- You can set any of the style values specified for `:h nvim_set_hl`
+-- 		comments = {},
+-- 		keywords = {},
+-- 		functions = {},
+-- 		variables = {},
+-- 		type = { bold = true },
+-- 	},
+-- 	config = function()
+-- 		vim.cmd([[colorscheme slightlyclownish]])
+-- 	end,
+-- }
