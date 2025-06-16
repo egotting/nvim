@@ -4,7 +4,6 @@ return {
 		indent = {
 			highlight = {
 				"RainbowRed",
-				-- etc.
 			},
 		},
 	},
