@@ -9,14 +9,20 @@
 --   end,
 -- }
 
+-- return {
+-- 	"love-pengy/lillilac.nvim",
+-- 	priority = 1000,
+-- 	config = function()
+-- 		vim.cmd.colorscheme("lillilac")
+-- 	end,
+-- }
 return {
-	"love-pengy/lillilac.nvim",
+	"blazkowolf/gruber-darker.nvim",
 	priority = 1000,
 	config = function()
-		vim.cmd.colorscheme("lillilac")
+		vim.cmd.colorscheme("gruber-darker")
 	end,
 }
-
 --testing
 --[[
 return {
